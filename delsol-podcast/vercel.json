@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/feed.php": {
+    "api/feed11.php": {
       "runtime": "vercel-php@0.6.0"
     }
   },
