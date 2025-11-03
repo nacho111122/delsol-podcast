@@ -7,7 +7,7 @@
   "routes": [
     { 
       "src": "/feed11.php", 
-      "dest": "/api/feed.php",
+      "dest": "/api/feed11.php",
       "headers": {
         "Content-Type": "application/rss+xml"
       }
