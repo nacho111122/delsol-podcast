@@ -1,0 +1,30 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "DelSol FM f-11",
+  "home_page_url": "https://delsol.uy",
+  "description": "Podcast de DelSol 99.5 FM",
+  "icon": "https://delsoluy.s3.sa-east-1.amazonaws.com/delsol6.jpg",
+  "authors": [
+    {
+      "name": "DelSol FM",
+      "url": "https://delsol.uy"
+    }
+  ],
+  "language": "es-es",
+  "items": [
+    {
+      "id": "1",
+      "title": "Episodio de Prueba",
+      "content_html": "Feed funcionando correctamente",
+      "date_published": "2024-01-15T00:00:00Z",
+      "url": "https://delsol.uy",
+      "attachments": [
+        {
+          "url": "https://delsol.uy/audio/sample.mp3",
+          "mime_type": "audio/mpeg",
+          "size_in_bytes": 1000000
+        }
+      ]
+    }
+  ]
+}
